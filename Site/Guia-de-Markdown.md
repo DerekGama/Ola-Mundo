@@ -1,4 +1,4 @@
-# Aula de Lignugem MArkdown
+# Aula de Lignugem Markdown
 ---
 Estouvaprendendo lignuagem de **Markdown** no curso de Git e Github do Curso em Vídeo
 Podemos __*misturar*__ marcações
@@ -19,6 +19,6 @@ Podemos __*misturar*__ marcações
 * Demarcada4
 
 ## Lista de Tarefas
-- [] Tarefa1
-- [] Tarefa2
+- [ ] Tarefa1
+- [ ] Tarefa2
 - [x] TarefaCompleta
